@@ -25,7 +25,8 @@ github_username:  stffrdhrn
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
+#theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
