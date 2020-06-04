@@ -18,8 +18,8 @@ date: 2020-06-04 06:17:00
 
 ### The Bait
 
-This clickbait has seen variations accross the web.  It tries to entice the reader by showing
-some wierd pictures of computers, like a laptop with a plastic cover.  Variants include:
+This clickbait has seen variations across the web.  It tries to entice the reader by showing
+some weird pictures of computers, like a laptop with a plastic cover.  Variants include:
 
 <table style="width:260px">
 <tr>

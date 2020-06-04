@@ -6,8 +6,9 @@ permalink: /about/
 
 We are trying to make the web a better place.
 
-Do you find [Clickbait](https://en.wikipedia.org/wiki/Clickbait) titles like "This one trick ..." irrisistable but hate
-waisting your time to figure out the one trick is not something new.
+Do you find [Clickbait](https://en.wikipedia.org/wiki/Clickbait) titles like
+"This one trick ..." irresistible but hate wasting your time to figure out the
+one trick is not something new.
 
 Come here to get the real headlines up front.
 
@@ -26,6 +27,6 @@ like to contribute a post make a [pull request](https://help.github.com/en/githu
 
 Some tips for getting your pull request merged.
 
- - In the article title inlucde the clickbait text and the real details
+ - In the article title include the clickbait text and the real details
  - Include the original clickbait image and text in the post
  - Include links to quality content
