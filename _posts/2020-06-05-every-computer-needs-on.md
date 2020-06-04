@@ -4,7 +4,7 @@ title: "Every Computer Owner Needs One of These (It's Antivirus)"
 date: 2020-06-04 06:17:00
 ---
 
-## The Bait
+### The Bait
 
 <table style="width:260px">
 <tr>
@@ -25,7 +25,7 @@ date: 2020-06-04 06:17:00
  - Links to: [antivirustop-10.com](https://antivirustop-10.com)
  - Seen on: [BBC](https://bbc.com), [CNN](https://cnn.com)
 
-## The Truth
+### The Truth
 
 It's **Anti-Virus**, don't click here.  The link takes you to an antivirus advertisement websit.
 
