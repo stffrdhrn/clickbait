@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Trying to make the world a better place.
+We are trying to make the web a better place.
 
-Do you find Clickbait titles like "This one trick ..." irrisistable but hate
+Do you find [Clickbait](https://en.wikipedia.org/wiki/Clickbait) titles like "This one trick ..." irrisistable but hate
 waisting your time to figure out the one trick is not something new.
 
 Come here to get the real headlines up front.
