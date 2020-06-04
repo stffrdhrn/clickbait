@@ -16,3 +16,16 @@ Come here to get the real headlines up front.
 We try to save your time and give information to you as fast as possible.  Some
 clickbait articles are on good subjects we provide links to the real subject
 matter as well as the original clickbait.
+
+### Contributing
+
+This website is hosted on github at https://github.com/stffrdhrn/clickbait. If you would
+like to contribute a post make a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+#### Guidelines
+
+Some tips for getting your pull request merged.
+
+ - In the article title inlucde the clickbait text and the real details
+ - Include the original clickbait image and text in the post
+ - Include links to quality content
