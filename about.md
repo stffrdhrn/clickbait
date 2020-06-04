@@ -19,7 +19,7 @@ matter as well as the original clickbait.
 
 ### Contributing
 
-This website is hosted on github at https://github.com/stffrdhrn/clickbait. If you would
+This website is hosted on github at [github.com/stffrdhrn/clickbait](https://github.com/stffrdhrn/clickbait). If you would
 like to contribute a post make a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 #### Guidelines
