@@ -3,7 +3,7 @@
 Do you find Clickbait titles like "This one trick ..." irrisistable but hate
 waisting your time to figure out the one trick is not something new.
 
-Check out https://stffrdhrn.gitub.io/clickbait to get the real headlines up
+Check out https://stffrdhrn.github.io/clickbait to get the real headlines up
 front.
 
 ### Goal
